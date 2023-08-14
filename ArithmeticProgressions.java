@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Solution {
+    
 
   static final int MOD = 1_000_003;
   static long[] d;
