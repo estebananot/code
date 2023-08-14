@@ -87,6 +87,7 @@ class Program
             a.Add(x.val);
             x = x.r;
         }
+        
         Console.WriteLine(Math.Abs(a[0] - a[a.Count - 1]));
         foreach (int val in a)
         {
